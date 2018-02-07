@@ -1,0 +1,6 @@
+AppDelegate
+    - What does it do?
+    - Why is it important?
+    - How is it used and why?
+
+
